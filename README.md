@@ -89,3 +89,9 @@ The app was launched on an SHC Air and connected to `android.LetvRemoteUpgradeSe
 ## Star this project
 
 If this utility helped restore your TV key, please **Star this repository**. Model-specific compatibility reports are welcome through [Issues](https://github.com/marui9819/LetvOfflineRemoteKey/issues).
+
+## 相关项目 / Related project
+
+需要 Android TV 或手机上的 IPTV 播放器，可查看独立项目 [AndroidTVIptvPlayer（5xingTV）](https://github.com/marui9819/AndroidTVIptvPlayer)。它与本工具相互独立，不负责红外码配置。
+
+For an IPTV player on Android TV or phones, see the separate [AndroidTVIptvPlayer (5xingTV)](https://github.com/marui9819/AndroidTVIptvPlayer). It is independent of this utility and does not configure IR profiles.
